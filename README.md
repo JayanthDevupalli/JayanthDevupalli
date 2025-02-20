@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I’m passionate about coding, open-source project
 
 ## 🛠 Tech Stack
 - 💻 **Languages:** Python, JavaScript
-- 🌐 **Frontend:** React, Vue
-- 🛢️ **Backend:** Node.js, Django
-- ☁️ **Cloud:** AWS, Firebase
-- 🛠️ **Tools:** Git, Docker
+- 🌐 **Frontend:**HTML, CSS, React 
+- 🛢️ **Backend:** Node.js
+- ☁️ **Cloud:** Firebase, MongoDB
+- 🛠️ **Tools:** Git
 
 ## 💡 Projects
 ### 1. Personal Financial Tracker Web App
